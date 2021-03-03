@@ -1,0 +1,7 @@
+<launch>
+    <!-- Launch dynamic reconfigure -->
+    <node pkg="rqt_reconfigure" type="rqt_reconfigure" name="rqt_console" args="-t"/>
+
+    <!-- YOUR CODE HERE -->
+    <node pkg="dyn_reconfig_intro" type="d_rcfg_hello" name="d_rcfg_hello" output="screen"/>
+</launch>

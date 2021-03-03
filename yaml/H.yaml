@@ -1,0 +1,19 @@
+!!python/object/new:dynamic_reconfigure.encoding.Config
+dictitems:
+  freq: 1.3679999999999999
+  groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+    dictitems:
+      freq: 1.3679999999999999
+      groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      id: 0
+      message: Hello W from ROS
+      name: Default
+      parameters: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      parent: 0
+      state: true
+      type: ''
+    state: []
+  message: Hello W from ROS
+state: []
